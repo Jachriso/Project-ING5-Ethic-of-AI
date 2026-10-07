@@ -1,1 +1,1 @@
-# Project---Ethic-of-AI
+# Project ING5 Ethic of AI
