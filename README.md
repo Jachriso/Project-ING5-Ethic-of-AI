@@ -4,7 +4,7 @@
 
 **Goal** : make ethical (by design) a classic AI workflow 
 
-**Steps**
+**Steps** :
 - Find a real-life dataset (on Kaggle & co), enlight its biases and reduce them if you decide to implement an unbiased prediction but not for a realistic prediction (slides 27-28)
 - Get a handleable LLM, adapt it by the three methods and benchmark them in order to save the most appropriate one
 -  Use it as a solution for a relevant problem regarding your dataset
